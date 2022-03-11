@@ -1,0 +1,19 @@
+{
+  "name": "DappUniWeb3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+ 
+      "start": "npx nodemon importanFunctions.js"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "web3": "^1.7.1"
+  }
+}
